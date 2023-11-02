@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "pillow",
+        "url": "/models/pillow/hmg.glb"
+    },
+    {
+        "id": "2",
+        "name": "couch pillow",
+        "url": "/models/couch_pillow/couch_pillow.glb"
+    }
+]
